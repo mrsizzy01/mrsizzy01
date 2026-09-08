@@ -1,35 +1,36 @@
-# 👋 Hi, I'm Sizzy Shk
+# Hi, I'm Sizzy Shk
 
-### 💻 Software Developer | Web • Mobile • Desktop
+### Software Developer | Full-Stack Development | Software Engineering
 
-I'm **Sizzy Shk**, a developer from **Lubumbashi, DR Congo 🇨🇩**, passionate about building software that solves **real-world problems**.
+I'm **Sizzy Shk**, a software developer from **Lubumbashi, Democratic Republic of Congo 🇨🇩**, passionate about building software that solves real-world problems.
 
-I build applications for **businesses, schools, organizations and everyday users**, with a particular interest in creating practical digital solutions adapted to real needs.
+I work across **web, mobile and desktop development**, with a particular interest in business software, education technology, SaaS and digital products adapted to African realities.
 
-My focus is not just writing code.
+I enjoy taking an idea from a problem to a working product:
 
-> **I want to understand a problem, design a solution, build it, and turn it into useful software.**
-
----
-
-## 🚀 What I Build
-
-* 🌐 **Web Applications**
-* 📱 **Mobile Applications**
-* 🖥️ **Desktop Applications**
-* 🏢 **Business Management Systems**
-* 🎓 **Education & School Management Platforms**
-* ☁️ **SaaS Applications**
-* 🔓 **Open-Source Projects**
-* 🌍 **Digital solutions for African businesses and organizations**
-
-I'm especially interested in software that can move from a simple idea to a **real product used by real people**.
+> **Understand the problem. Design the solution. Build it. Test it. Ship it. Improve it.**
 
 ---
 
-## 🧠 Technologies I Work With
+## What I Do
 
-### 🌐 Web Development
+* Full-stack web development
+* Mobile application development
+* Desktop application development
+* Business management systems
+* Education & university management platforms
+* SaaS applications
+* REST APIs and backend systems
+* Software architecture
+* Open-source development
+
+My goal is not simply to write code, but to build **useful, maintainable and scalable software**.
+
+---
+
+## Technologies
+
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -37,7 +38,7 @@ I'm especially interested in software that can move from a simple idea to a **re
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
@@ -45,115 +46,132 @@ I'm especially interested in software that can move from a simple idea to a **re
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 📱 Mobile
+### Mobile & Desktop
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 🖥️ Desktop
-
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### 🛠️ Tools & Engineering
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## 🔨 Currently Working On
+## Selected Projects
 
-I'm currently focusing on improving my skills in:
+### ISAM Lubumbashi
 
-* 🧩 **TypeScript**
-* ⚛️ **React & Next.js**
-* 🐘 **Laravel & PHP**
-* 🐍 **Python & FastAPI**
-* 📱 **Flutter**
-* 🖥️ **Desktop development with Electron**
-* 🐳 **Docker & DevOps**
-* 🏗️ **Software architecture**
-* 📈 **Scalable applications**
-* 🔐 **Cybersecurity**
+A university management platform designed to manage academic and administrative processes.
+
+The platform covers areas such as student admissions, student management, teachers, courses, promotions, grades, payments, documents and role-based portals.
+
+**Technologies:** Laravel, React, Inertia.js, TypeScript, MySQL
 
 ---
 
-## 🎯 What I'm Interested In
+### DRC Marketplace
 
-My main interests are:
+A marketplace project focused on simplifying online buying and selling in the Democratic Republic of Congo.
 
-**Software Engineering • Full-Stack Development • SaaS • Open Source • Business Software • Education Technology • Mobile • Desktop • African Tech**
+The project explores how e-commerce can be adapted to local users, businesses and payment realities.
 
-I enjoy working on projects where technology is used to solve a **specific and measurable problem**.
-
----
-
-## 🌍 Building From Africa
-
-I believe Africa has countless problems that can be transformed into opportunities for technology.
-
-There is a need for software that understands:
-
-* local businesses
-* schools and universities
-* organizations
-* entrepreneurs
-* everyday users
-* African markets and their realities
-
-That's the kind of software I want to build.
-
-> **From Lubumbashi 🇨🇩 to the world 🌍.**
+**Focus:** E-commerce, PWA, APIs, Payments, African Tech
 
 ---
 
-## 🤝 Let's Build Together
+### KONGO
 
-I'm open to:
+A digital infrastructure project exploring identity, professional presence, networks and economic activity in a trusted environment.
 
-* 🔓 Open-source collaboration
-* 💻 Software development
-* 🚀 Startups & SaaS
-* 🌍 African technology
-* 🤝 Freelance projects
-* 🧪 Interesting side projects
-* 👨‍💻 Developer communities
-* 💡 Building useful products
+The vision is to create technology that can grow beyond a single application and eventually serve users across Africa.
 
-If you're working on something interesting, **let's build it.**
+**Focus:** Digital Identity, Business, Networks, Trust, African Technology
 
 ---
 
-## 📊 GitHub Activity
+## Areas of Interest
 
-![Sizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsizzy01\&show_icons=true\&theme=tokyonight\&hide_border=true)
+* Software Engineering
+* Full-Stack Development
+* SaaS
+* System Design
+* Software Architecture
+* Business Software
+* Education Technology
+* Mobile Development
+* Desktop Applications
+* Open Source
+* Cybersecurity
+* African Technology
+
+---
+
+## Building From Africa
+
+I believe technology can play an important role in solving problems faced by businesses, schools, organizations and entrepreneurs across Africa.
+
+My goal is to build software that understands local realities while following modern engineering practices.
+
+**Building from Lubumbashi, DR Congo, for Africa and beyond.**
+
+---
+
+## Education
+
+**Bachelor's Degree in Computer Science — In Progress**
+
+Université Protestante de Lubumbashi
+Lubumbashi, Democratic Republic of Congo
+
+---
+
+## Let's Connect
+
+I'm open to collaborating on:
+
+* Open-source projects
+* Software products
+* SaaS
+* Startups
+* Freelance development
+* African technology
+* Developer communities
+* Interesting technical projects
+
+If you're building something interesting, feel free to reach out.
+
+---
+
+## GitHub Stats
+
+![Sizzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsizzy01\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsizzy01\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## ⚡ Developer Mindset
+## Developer Mindset
 
 ```text
-learn();
-build();
-test();
-fail();
-fix();
-improve();
-ship();
-repeat();
+Learn.
+Build.
+Test.
+Fail.
+Fix.
+Improve.
+Ship.
+Repeat.
 ```
 
 ---
 
-### 💙 Keep learning. Keep building. Keep shipping.
+**Sizzy Shk**
 
-**Sizzy Shk 🇨🇩**
+Software Developer · Full-Stack · Product Builder · DR Congo 🇨🇩
