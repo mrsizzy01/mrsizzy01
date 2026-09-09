@@ -1,6 +1,6 @@
 # Hi, I'm Sizzy Shk
 
-### Software Developer | Full-Stack Development | Software Engineering
+### Software Developer | Development | Software Engineering
 
 I'm **Sizzy Shk**, a software developer from **Lubumbashi, Democratic Republic of Congo 🇨🇩**, passionate about building software that solves real-world problems.
 
