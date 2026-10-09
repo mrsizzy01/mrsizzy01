@@ -1,4 +1,4 @@
-# Hi, I'm Sizzy Shk
+# Hi, I'm Mr Sizzy
 
 ### Software Developer | Software Engineering | Product Builder
 
